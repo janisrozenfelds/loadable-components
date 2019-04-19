@@ -1,3 +1,4 @@
+🚀👋
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/smooth-code/loadable-components/master/resources/loadable-components.png" alt="loadable-components" title="loadable-components" width="300">
 </h1>
